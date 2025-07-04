@@ -22,47 +22,47 @@ In the output, you'll find options to open the app in a
 
 ### Splash Screen
 
-![Splash Screen](./screenshots/5999244516038660442.jpg)
+![Splash Screen](<img src="./screenshots/5999244516038660442.jpg" width="300" />)
 
 ### 👤 Carousel 1
 
-![carousel](./screenshots/5999244516038660443.jpg)
+![carousel](<img src="./screenshots/5999244516038660443.jpg" width ="300"/>)
 
 ### SignUp
 
-![SignUp](./screenshots/110ae306-d4d6-4aab-a873-33d6d46f0b2e.jpeg)
+![SignUp](<img src="./screenshots/110ae306-d4d6-4aab-a873-33d6d46f0b2e.jpeg" width="300>)
 
 ### SignIn
 
-![SignIn](./screenshots/5999244516038660444.jpg)
+![SignIn](<img src="./screenshots/5999244516038660444.jpg" width="300"/>)
 
 ### Forgot Password step 1
 
-![Forgot Password step 1](./screenshots/5999244516038660445.jpg)
+![Forgot Password step 1](<img src="./screenshots/5999244516038660445.jpg" width="300"/>)
 
 ### Forgot Password step 2
 
-![Forgot Password step 2](./screenshots/5999244516038660446.jpg)
+![Forgot Password step 2](<img src="./screenshots/5999244516038660446.jpg" width="300"/>)
 
 ### Forgot Password step 3
 
-![Forgot Password step 3](./screenshots/5999244516038660447.jpg)
+![Forgot Password step 3](<img src="./screenshots/5999244516038660447.jpg" width="300"/>)
 
 ### Forgot Password step 4
 
-![Forgot Password step 4](./screenshots/5999244516038660448.jpg)
+![Forgot Password step 4](<img src="./screenshots/5999244516038660448.jpg" width="300"/>)
 
 ### 🏠 HomePage
 
-![HomePage](./screenshots/5999244516038660449.jpg)
+![HomePage](<img src="./screenshots/5999244516038660449.jpg" width="300"/>)
 
 ### Wallet Page
 
-![Wallet](./screenshots/5999244516038660450.jpg)
+![Wallet](<img src="./screenshots/5999244516038660450.jpg" width="300"/>)
 
 ### Notification Page
 
-![Notification](./screenshots/5999244516038660451.jpg)
+![Notification](<img src="./screenshots/5999244516038660451.jpg" width="300"/>)
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
 - [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
